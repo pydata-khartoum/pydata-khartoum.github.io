@@ -8,7 +8,7 @@ key: page-about
 # PyData Khartoum
 
 ## About PyData Organization
-NumFOCUS is the organizer of PyData. NumFOCUS is a nonprofit organization whose aim is to promote the use of accessible and reproducible computing in science and technology. ^[1]
+NumFOCUS is the organizer of PyData. NumFOCUS is a nonprofit organization whose aim is to promote the use of accessible and reproducible computing in science and technology. [^1]
 
 Data science is ever increasing skill to have, though not _all_ people have access to it. Most of the materials are indeed available for free online, sometimes it is the language that makes this barrier. We meant to remove this barrier and others. The idea of _physical_ meetings have proven to be very useful. For one, you get to meet people with whom you share the same passion. We want people from all backgrounds, level expertise to come and share their data science skills. _We are still not officially PyData registered organization, we will be a one very soon_.
 
@@ -29,4 +29,14 @@ All communication should be appropriate for a professional audience including pe
 
 Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyData.
 
-Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers. 
+Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
+
+#TODO
+
+* A logo for PyData Khartoum. Checkout [^1] to see their logo, maybe we can just add `Kh` to it.
+* Call for speakers.
+* Write blog posts, many of them actually. Use Jupyter notebooks to make them more interactive. 
+	* Focus should be for getting started ones. Introduction to NumPy, etc.
+	* Copy/pasting from internet is extremely prohibited without proper citation. Avoid that as much as possible, and try to make posts from your own view--it will help us much.
+* Roadmap for the next three months. We need to know what we want to do in the next three months and plan for that accordingly.
+[^1]: https://pydata.org/
