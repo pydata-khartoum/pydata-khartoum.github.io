@@ -14,3 +14,9 @@ PyData Khartoum is meeting group to study and learn data science using open sour
 
 ## Sponsors
 We are very thankful to Innovation Platform for their unlimited support by allowing us to use their offices and rooms to do the meetings. Another support is also provided by GNDI (they offer a hall to host some of the meetings.) Most of all, we are really thankful for Reem and her huge support to connect all of these people together! It was very hard to get that. We are grateful for our speakers as they allocating some of their time to help others!
+
+## Our Team
+
+- Reem Omer
+- Mohamed Yousif
+- Taqwa
